@@ -2,10 +2,10 @@
 
 Este espaço é dedicado a quem, como eu, quer aprender **na prática**, estudando e contribuindo com projetos reais e de código aberto. Aqui você encontrará um conjunto de **repositórios úteis**, **projetos para fazer commits** e **ideias para automação e IA**.
 
-> 👤 Nome: Parner (José Ferreira)  
+> 👤 Nome: Jomaph  
 > 📫 Email: jomaaph@outlook.com  
-> 💼 GitHub: [github.com/parner](https://github.com/parner)  
-> 📎 Linkedin: [linkedin.com/in/parner](https://linkedin.com/in/parner)
+> 💼 GitHub: [https://github.com/Jomaph)  
+> 📎 LinkedIn: [https://www.linkedin.com/in/jos%C3%A9-ferreira-a98362342)
 
 ---
 
@@ -91,9 +91,8 @@ Este espaço é dedicado a quem, como eu, quer aprender **na prática**, estudan
 
 Se você também está estudando e quer praticar **com código real**, me segue e vamos juntos:
 
-- GitHub: [github.com/parner](https://github.com/parner)  
-- LinkedIn: [linkedin.com/in/parner](https://linkedin.com/in/parner)
-
+- 💼 GitHub: [https://github.com/Jomaph)  
+- 📎 LinkedIn: [https://www.linkedin.com/in/jos%C3%A9-ferreira-a98362342)
 ---
 
 > 🧠 *A melhor forma de aprender é ensinando e contribuindo.*  
